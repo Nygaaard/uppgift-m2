@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("uppgift-m2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0b57c3866e57c4d0132eea569b5c3b1854e07d75")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9bcb21748d985ef8d69fabfb2b2d2a18a591fcb3")]
 [assembly: System.Reflection.AssemblyProductAttribute("uppgift-m2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("uppgift-m2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

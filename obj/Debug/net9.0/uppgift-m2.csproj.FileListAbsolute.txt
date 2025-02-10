@@ -12,6 +12,8 @@ C:\Users\nygar\OneDrive\Skrivbord\Dotnet\Moment 2\uppgift-m2\obj\Debug\net9.0\up
 C:\Users\nygar\OneDrive\Skrivbord\Dotnet\Moment 2\uppgift-m2\obj\Debug\net9.0\uppgift-m2.AssemblyInfo.cs
 C:\Users\nygar\OneDrive\Skrivbord\Dotnet\Moment 2\uppgift-m2\obj\Debug\net9.0\uppgift-m2.csproj.CoreCompileInputs.cache
 C:\Users\nygar\OneDrive\Skrivbord\Dotnet\Moment 2\uppgift-m2\obj\Debug\net9.0\uppgift-m2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nygar\OneDrive\Skrivbord\Dotnet\Moment 2\uppgift-m2\obj\Debug\net9.0\uppgift-m2.RazorAssemblyInfo.cache
+C:\Users\nygar\OneDrive\Skrivbord\Dotnet\Moment 2\uppgift-m2\obj\Debug\net9.0\uppgift-m2.RazorAssemblyInfo.cs
 C:\Users\nygar\OneDrive\Skrivbord\Dotnet\Moment 2\uppgift-m2\obj\Debug\net9.0\uppgift-m2.sourcelink.json
 C:\Users\nygar\OneDrive\Skrivbord\Dotnet\Moment 2\uppgift-m2\obj\Debug\net9.0\scopedcss\bundle\uppgift-m2.styles.css
 C:\Users\nygar\OneDrive\Skrivbord\Dotnet\Moment 2\uppgift-m2\obj\Debug\net9.0\staticwebassets.build.json
@@ -28,3 +30,4 @@ C:\Users\nygar\OneDrive\Skrivbord\Dotnet\Moment 2\uppgift-m2\obj\Debug\net9.0\re
 C:\Users\nygar\OneDrive\Skrivbord\Dotnet\Moment 2\uppgift-m2\obj\Debug\net9.0\uppgift-m2.pdb
 C:\Users\nygar\OneDrive\Skrivbord\Dotnet\Moment 2\uppgift-m2\obj\Debug\net9.0\uppgift-m2.genruntimeconfig.cache
 C:\Users\nygar\OneDrive\Skrivbord\Dotnet\Moment 2\uppgift-m2\obj\Debug\net9.0\ref\uppgift-m2.dll
+C:\Users\nygar\OneDrive\Skrivbord\Dotnet\Moment 2\uppgift-m2\obj\Debug\net9.0\compressed\5g052qmn8g-ucpwn3ghed.gz

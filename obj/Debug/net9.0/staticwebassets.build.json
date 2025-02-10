@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "/f7rWjJPUTM9ZYs/g3JMnNBH7BHzMt0OtscmAhlYm6c=",
+  "Hash": "I9MlqE6bDpCEgLXI/xO9gU2oX1q2fIDt7SprEY7GZR4=",
   "Source": "uppgift-m2",
   "BasePath": "_content/uppgift-m2",
   "Mode": "Default",
@@ -15,6 +15,348 @@
       "Pattern": "**"
     }
   ],
-  "Assets": [],
-  "Endpoints": []
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\nygar\\OneDrive\\Skrivbord\\Dotnet\\Moment 2\\uppgift-m2\\obj\\Debug\\net9.0\\compressed\\5g052qmn8g-ucpwn3ghed.gz",
+      "SourceId": "uppgift-m2",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\nygar\\OneDrive\\Skrivbord\\Dotnet\\Moment 2\\uppgift-m2\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/uppgift-m2",
+      "RelativePath": "css/styles#[.{fingerprint=ucpwn3ghed}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\nygar\\OneDrive\\Skrivbord\\Dotnet\\Moment 2\\uppgift-m2\\wwwroot\\css\\styles.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "hocsy2msb7",
+      "Integrity": "MTlSeukkUzUi1+vPAphw/BdvFBfHDVrcuzOnPfJ/zHE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\nygar\\OneDrive\\Skrivbord\\Dotnet\\Moment 2\\uppgift-m2\\wwwroot\\css\\styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\nygar\\OneDrive\\Skrivbord\\Dotnet\\Moment 2\\uppgift-m2\\wwwroot\\css\\styles.css",
+      "SourceId": "uppgift-m2",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\nygar\\OneDrive\\Skrivbord\\Dotnet\\Moment 2\\uppgift-m2\\wwwroot\\",
+      "BasePath": "_content/uppgift-m2",
+      "RelativePath": "css/styles#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ucpwn3ghed",
+      "Integrity": "ohR28XWZR97r5Ltb1paKdgz5jyJwhAwoeV4TZIgOKVM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\styles.css"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "css/styles.css",
+      "AssetFile": "C:\\Users\\nygar\\OneDrive\\Skrivbord\\Dotnet\\Moment 2\\uppgift-m2\\obj\\Debug\\net9.0\\compressed\\5g052qmn8g-ucpwn3ghed.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.021276595745"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "46"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MTlSeukkUzUi1+vPAphw/BdvFBfHDVrcuzOnPfJ/zHE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 Feb 2025 15:59:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"ohR28XWZR97r5Ltb1paKdgz5jyJwhAwoeV4TZIgOKVM=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ohR28XWZR97r5Ltb1paKdgz5jyJwhAwoeV4TZIgOKVM="
+        }
+      ]
+    },
+    {
+      "Route": "css/styles.css",
+      "AssetFile": "C:\\Users\\nygar\\OneDrive\\Skrivbord\\Dotnet\\Moment 2\\uppgift-m2\\wwwroot\\css\\styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "26"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ohR28XWZR97r5Ltb1paKdgz5jyJwhAwoeV4TZIgOKVM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 Feb 2025 15:59:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ohR28XWZR97r5Ltb1paKdgz5jyJwhAwoeV4TZIgOKVM="
+        }
+      ]
+    },
+    {
+      "Route": "css/styles.css.gz",
+      "AssetFile": "C:\\Users\\nygar\\OneDrive\\Skrivbord\\Dotnet\\Moment 2\\uppgift-m2\\obj\\Debug\\net9.0\\compressed\\5g052qmn8g-ucpwn3ghed.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "46"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MTlSeukkUzUi1+vPAphw/BdvFBfHDVrcuzOnPfJ/zHE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 Feb 2025 15:59:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-MTlSeukkUzUi1+vPAphw/BdvFBfHDVrcuzOnPfJ/zHE="
+        }
+      ]
+    },
+    {
+      "Route": "css/styles.ucpwn3ghed.css",
+      "AssetFile": "C:\\Users\\nygar\\OneDrive\\Skrivbord\\Dotnet\\Moment 2\\uppgift-m2\\obj\\Debug\\net9.0\\compressed\\5g052qmn8g-ucpwn3ghed.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.021276595745"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "46"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MTlSeukkUzUi1+vPAphw/BdvFBfHDVrcuzOnPfJ/zHE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 Feb 2025 15:59:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"ohR28XWZR97r5Ltb1paKdgz5jyJwhAwoeV4TZIgOKVM=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ucpwn3ghed"
+        },
+        {
+          "Name": "label",
+          "Value": "css/styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ohR28XWZR97r5Ltb1paKdgz5jyJwhAwoeV4TZIgOKVM="
+        }
+      ]
+    },
+    {
+      "Route": "css/styles.ucpwn3ghed.css",
+      "AssetFile": "C:\\Users\\nygar\\OneDrive\\Skrivbord\\Dotnet\\Moment 2\\uppgift-m2\\wwwroot\\css\\styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "26"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ohR28XWZR97r5Ltb1paKdgz5jyJwhAwoeV4TZIgOKVM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 Feb 2025 15:59:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ucpwn3ghed"
+        },
+        {
+          "Name": "label",
+          "Value": "css/styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ohR28XWZR97r5Ltb1paKdgz5jyJwhAwoeV4TZIgOKVM="
+        }
+      ]
+    },
+    {
+      "Route": "css/styles.ucpwn3ghed.css.gz",
+      "AssetFile": "C:\\Users\\nygar\\OneDrive\\Skrivbord\\Dotnet\\Moment 2\\uppgift-m2\\obj\\Debug\\net9.0\\compressed\\5g052qmn8g-ucpwn3ghed.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "46"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MTlSeukkUzUi1+vPAphw/BdvFBfHDVrcuzOnPfJ/zHE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 Feb 2025 15:59:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ucpwn3ghed"
+        },
+        {
+          "Name": "label",
+          "Value": "css/styles.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-MTlSeukkUzUi1+vPAphw/BdvFBfHDVrcuzOnPfJ/zHE="
+        }
+      ]
+    }
+  ]
 }

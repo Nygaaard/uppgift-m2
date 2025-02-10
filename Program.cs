@@ -1,20 +1,20 @@
+
 var builder = WebApplication.CreateBuilder(args);
 
-//Aktivera MVC
+// Aktivera MVC
 builder.Services.AddControllersWithViews();
 
 var app = builder.Build();
 
-//Aktivera statiska filer
+// Aktivera statiska filer
 app.UseStaticFiles();
 
-//Aktivera routing
+// Aktivera routing
 app.UseRouting();
 
-//Routing
+// Routing
 app.MapControllerRoute(
     name: "default",
-    pattern: "{controller=Home}/{action=Index}/{id}"
-);
+    pattern: "{Controller=Home}/{Action=Index}/{id?}");
 
 app.Run();

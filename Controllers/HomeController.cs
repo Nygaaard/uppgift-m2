@@ -8,5 +8,12 @@ namespace uppgiftm2.Namespace
         {
             return View();
         }
+
+        //Styra om routing
+        [Route("/todos")]
+        public IActionResult Todos()
+        {
+            return View();
+        }
     }
 }

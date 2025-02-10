@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\uppgift-m2.props" />
+</Project>

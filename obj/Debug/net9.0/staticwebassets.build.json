@@ -1,0 +1,20 @@
+{
+  "Version": 1,
+  "Hash": "/f7rWjJPUTM9ZYs/g3JMnNBH7BHzMt0OtscmAhlYm6c=",
+  "Source": "uppgift-m2",
+  "BasePath": "_content/uppgift-m2",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "uppgift-m2\\wwwroot",
+      "Source": "uppgift-m2",
+      "ContentRoot": "C:\\Users\\nygar\\OneDrive\\Skrivbord\\Dotnet\\Moment 2\\uppgift-m2\\wwwroot\\",
+      "BasePath": "_content/uppgift-m2",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [],
+  "Endpoints": []
+}

@@ -10,7 +10,15 @@
 
 <body>
     <header>
-
+        <div class="header-container">
+            <h1>Rubrik</h1>
+            <nav>
+                <ul>
+                    <li><a asp-controller="Home" asp-action="Index">Startsidan</a></li>
+                    <li><a asp-controller="Home" asp-action="Todos">Att göra-lista</a></li>
+                </ul>
+            </nav>
+        </div>
     </header>
     <main>
         @RenderBody()

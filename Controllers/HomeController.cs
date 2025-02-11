@@ -15,5 +15,10 @@ namespace uppgiftm2.Namespace
         {
             return View();
         }
+
+        public IActionResult AddTodo()
+        {
+            return View();
+        }
     }
 }

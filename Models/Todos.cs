@@ -2,7 +2,7 @@ using System;
 
 namespace uppgiftm2.Models
 {
-    public class Todos
+    public class TodosModel
     {
         //Properties
         public int? Id { get; set; }
